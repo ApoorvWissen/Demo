@@ -1,5 +1,7 @@
 public class abc{
 	public static void main(String a[]){
-		System.out.println("Hello Everyone");
+		for(int i = 0 ; i<10 ; i++){
+			System.out.println("Hello Everyone"+i);
+		}
 	}
 }
